@@ -1,0 +1,4416 @@
+[
+  {
+    "aBORTcONTROLLER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "aBORTsIGNAL": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "aBSOLUTEoRIENTATIONsENSOR": {
+      "INH": "oRIENTATIONsENSOR",
+      "IMPL": []
+    },
+    "aBSTRACTrANGE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "aCCELEROMETER": {
+      "INH": "sENSOR",
+      "IMPL": []
+    },
+    "aMBIENTlIGHTsENSOR": {
+      "INH": "sENSOR",
+      "IMPL": []
+    },
+    "aNALYSERnODE": {
+      "INH": "aUDIOnODE",
+      "IMPL": []
+    },
+    "angle_INSTANCED_ARRAYS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "aNIMATION": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "aNIMATIONeFFECT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "aNIMATIONeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "aNIMATIONnODElIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "aNIMATIONpLAYBACKeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "aNIMATIONtIMELINE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "aNIMATIONwORKLETgLOBALsCOPE": {
+      "INH": "wORKLETgLOBALsCOPE",
+      "IMPL": []
+    },
+    "aTTR": {
+      "INH": "nODE",
+      "IMPL": []
+    },
+    "aUDIObUFFER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "aUDIObUFFERsOURCEnODE": {
+      "INH": "aUDIOsCHEDULEDsOURCEnODE",
+      "IMPL": []
+    },
+    "aUDIOcONTEXT": {
+      "INH": "bASEaUDIOcONTEXT",
+      "IMPL": []
+    },
+    "aUDIOdATA": {
+      "INH": "",
+      "IMPL": []
+    },
+    "aUDIOdECODER": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "aUDIOdESTINATIONnODE": {
+      "INH": "aUDIOnODE",
+      "IMPL": []
+    },
+    "aUDIOeNCODER": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "aUDIOlISTENER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "aUDIOnODE": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "aUDIOpARAM": {
+      "INH": "",
+      "IMPL": []
+    },
+    "aUDIOpARAMmAP": {
+      "INH": "",
+      "IMPL": []
+    },
+    "aUDIOpROCESSINGeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "aUDIOrENDERcAPACITY": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "aUDIOrENDERcAPACITYeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "aUDIOsCHEDULEDsOURCEnODE": {
+      "INH": "aUDIOnODE",
+      "IMPL": []
+    },
+    "aUDIOsESSION": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "aUDIOsINKiNFO": {
+      "INH": "",
+      "IMPL": []
+    },
+    "aUDIOtRACK": {
+      "INH": "",
+      "IMPL": []
+    },
+    "aUDIOtRACKlIST": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "aUDIOwORKLET": {
+      "INH": "wORKLET",
+      "IMPL": []
+    },
+    "aUDIOwORKLETgLOBALsCOPE": {
+      "INH": "wORKLETgLOBALsCOPE",
+      "IMPL": []
+    },
+    "aUDIOwORKLETnODE": {
+      "INH": "aUDIOnODE",
+      "IMPL": []
+    },
+    "aUDIOwORKLETpROCESSOR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "aUTHENTICATORaSSERTIONrESPONSE": {
+      "INH": "aUTHENTICATORrESPONSE",
+      "IMPL": []
+    },
+    "aUTHENTICATORaTTESTATIONrESPONSE": {
+      "INH": "aUTHENTICATORrESPONSE",
+      "IMPL": []
+    },
+    "aUTHENTICATORrESPONSE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "bACKGROUNDfETCHeVENT": {
+      "INH": "eXTENDABLEeVENT",
+      "IMPL": []
+    },
+    "bACKGROUNDfETCHmANAGER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "bACKGROUNDfETCHrECORD": {
+      "INH": "",
+      "IMPL": []
+    },
+    "bACKGROUNDfETCHrEGISTRATION": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "bACKGROUNDfETCHuPDATEuieVENT": {
+      "INH": "bACKGROUNDfETCHeVENT",
+      "IMPL": []
+    },
+    "bARCODEdETECTOR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "bARpROP": {
+      "INH": "",
+      "IMPL": []
+    },
+    "bASEaUDIOcONTEXT": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "bASELINE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "bATTERYmANAGER": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "bEFOREiNSTALLpROMPTeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "bEFOREuNLOADeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "bIQUADfILTERnODE": {
+      "INH": "aUDIOnODE",
+      "IMPL": []
+    },
+    "bLOB": {
+      "INH": "",
+      "IMPL": []
+    },
+    "bLOBeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "bLUETOOTH": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "bLUETOOTHaDVERTISINGeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "bLUETOOTHcHARACTERISTICpROPERTIES": {
+      "INH": "",
+      "IMPL": []
+    },
+    "bLUETOOTHdATAfILTER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "bLUETOOTHdEVICE": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "bLUETOOTHlesCAN": {
+      "INH": "",
+      "IMPL": []
+    },
+    "bLUETOOTHlesCANfILTER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "bLUETOOTHlesCANpERMISSIONrESULT": {
+      "INH": "pERMISSIONsTATUS",
+      "IMPL": []
+    },
+    "bLUETOOTHmANUFACTURERdATAfILTER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "bLUETOOTHmANUFACTURERdATAmAP": {
+      "INH": "",
+      "IMPL": []
+    },
+    "bLUETOOTHpERMISSIONrESULT": {
+      "INH": "pERMISSIONsTATUS",
+      "IMPL": []
+    },
+    "bLUETOOTHrEMOTEgattcHARACTERISTIC": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "bLUETOOTHrEMOTEgattdESCRIPTOR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "bLUETOOTHrEMOTEgattsERVER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "bLUETOOTHrEMOTEgattsERVICE": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "bLUETOOTHsERVICEdATAfILTER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "bLUETOOTHsERVICEdATAmAP": {
+      "INH": "",
+      "IMPL": []
+    },
+    "bLUETOOTHuuid": {
+      "INH": "",
+      "IMPL": []
+    },
+    "bREAKtOKEN": {
+      "INH": "",
+      "IMPL": []
+    },
+    "bROADCASTcHANNEL": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "bROWSERcAPTUREmEDIAsTREAMtRACK": {
+      "INH": "mEDIAsTREAMtRACK",
+      "IMPL": []
+    },
+    "bUFFEREDcHANGEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "bYTElENGTHqUEUINGsTRATEGY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cACHE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cACHEsTORAGE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cANmAKEpAYMENTeVENT": {
+      "INH": "eXTENDABLEeVENT",
+      "IMPL": []
+    },
+    "cANVAScAPTUREmEDIAsTREAMtRACK": {
+      "INH": "mEDIAsTREAMtRACK",
+      "IMPL": []
+    },
+    "cANVASgRADIENT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cANVASpATTERN": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cANVASrENDERINGcONTEXT2d": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cAPTUREaCTIONeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "cAPTUREcONTROLLER": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "cAPTUREDmOUSEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "cARETpOSITION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cdatasECTION": {
+      "INH": "tEXT",
+      "IMPL": []
+    },
+    "cHANNELmERGERnODE": {
+      "INH": "aUDIOnODE",
+      "IMPL": []
+    },
+    "cHANNELsPLITTERnODE": {
+      "INH": "aUDIOnODE",
+      "IMPL": []
+    },
+    "cHAPTERiNFORMATION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cHARACTERbOUNDSuPDATEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "cHARACTERdATA": {
+      "INH": "nODE",
+      "IMPL": []
+    },
+    "cHILDbREAKtOKEN": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cLIENT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cLIENTS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cLIPBOARD": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "cLIPBOARDeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "cLIPBOARDiTEM": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cLOSEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "cLOSEwATCHER": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "cOMMENT": {
+      "INH": "cHARACTERdATA",
+      "IMPL": []
+    },
+    "cOMPOSITIONeVENT": {
+      "INH": "uieVENT",
+      "IMPL": []
+    },
+    "cOMPRESSIONsTREAM": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cONSTANTsOURCEnODE": {
+      "INH": "aUDIOsCHEDULEDsOURCEnODE",
+      "IMPL": []
+    },
+    "cONTACTaDDRESS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cONTACTSmANAGER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cONTENTiNDEX": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cONTENTiNDEXeVENT": {
+      "INH": "eXTENDABLEeVENT",
+      "IMPL": []
+    },
+    "cONTENTvISIBILITYaUTOsTATEcHANGEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "cONVOLVERnODE": {
+      "INH": "aUDIOnODE",
+      "IMPL": []
+    },
+    "cOOKIEcHANGEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "cOOKIEsTORE": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "cOOKIEsTOREmANAGER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cOUNTqUEUINGsTRATEGY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cRASHrEPORTbODY": {
+      "INH": "rEPORTbODY",
+      "IMPL": []
+    },
+    "cREDENTIAL": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cREDENTIALScONTAINER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cROPtARGET": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cRYPTO": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cRYPTOkEY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cspvIOLATIONrEPORTbODY": {
+      "INH": "rEPORTbODY",
+      "IMPL": []
+    },
+    "cssaNIMATION": {
+      "INH": "aNIMATION",
+      "IMPL": []
+    },
+    "csscOLOR": {
+      "INH": "csscOLORvALUE",
+      "IMPL": []
+    },
+    "csscOLORpROFILErULE": {
+      "INH": "cssrULE",
+      "IMPL": []
+    },
+    "csscOLORvALUE": {
+      "INH": "csssTYLEvALUE",
+      "IMPL": []
+    },
+    "csscONDITIONrULE": {
+      "INH": "cssgROUPINGrULE",
+      "IMPL": []
+    },
+    "csscONTAINERrULE": {
+      "INH": "csscONDITIONrULE",
+      "IMPL": []
+    },
+    "csscOUNTERsTYLErULE": {
+      "INH": "cssrULE",
+      "IMPL": []
+    },
+    "cssfONTfACEdESCRIPTORS": {
+      "INH": "csssTYLEdECLARATION",
+      "IMPL": []
+    },
+    "cssfONTfACErULE": {
+      "INH": "cssrULE",
+      "IMPL": []
+    },
+    "cssfONTfEATUREvALUESmAP": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cssfONTfEATUREvALUESrULE": {
+      "INH": "cssrULE",
+      "IMPL": []
+    },
+    "cssfONTpALETTEvALUESrULE": {
+      "INH": "cssrULE",
+      "IMPL": []
+    },
+    "cssfUNCTIONrULE": {
+      "INH": "cssgROUPINGrULE",
+      "IMPL": []
+    },
+    "cssgROUPINGrULE": {
+      "INH": "cssrULE",
+      "IMPL": []
+    },
+    "csshsl": {
+      "INH": "csscOLORvALUE",
+      "IMPL": []
+    },
+    "csshwb": {
+      "INH": "csscOLORvALUE",
+      "IMPL": []
+    },
+    "cssiMAGEvALUE": {
+      "INH": "csssTYLEvALUE",
+      "IMPL": []
+    },
+    "cssiMPORTrULE": {
+      "INH": "cssrULE",
+      "IMPL": []
+    },
+    "csskEYFRAMErULE": {
+      "INH": "cssrULE",
+      "IMPL": []
+    },
+    "csskEYFRAMESrULE": {
+      "INH": "cssrULE",
+      "IMPL": []
+    },
+    "csskEYWORDvALUE": {
+      "INH": "csssTYLEvALUE",
+      "IMPL": []
+    },
+    "csslAB": {
+      "INH": "csscOLORvALUE",
+      "IMPL": []
+    },
+    "csslAYERbLOCKrULE": {
+      "INH": "cssgROUPINGrULE",
+      "IMPL": []
+    },
+    "csslAYERsTATEMENTrULE": {
+      "INH": "cssrULE",
+      "IMPL": []
+    },
+    "csslch": {
+      "INH": "csscOLORvALUE",
+      "IMPL": []
+    },
+    "cssmARGINrULE": {
+      "INH": "cssrULE",
+      "IMPL": []
+    },
+    "cssmATHcLAMP": {
+      "INH": "cssmATHvALUE",
+      "IMPL": []
+    },
+    "cssmATHiNVERT": {
+      "INH": "cssmATHvALUE",
+      "IMPL": []
+    },
+    "cssmATHmAX": {
+      "INH": "cssmATHvALUE",
+      "IMPL": []
+    },
+    "cssmATHmIN": {
+      "INH": "cssmATHvALUE",
+      "IMPL": []
+    },
+    "cssmATHnEGATE": {
+      "INH": "cssmATHvALUE",
+      "IMPL": []
+    },
+    "cssmATHpRODUCT": {
+      "INH": "cssmATHvALUE",
+      "IMPL": []
+    },
+    "cssmATHsUM": {
+      "INH": "cssmATHvALUE",
+      "IMPL": []
+    },
+    "cssmATHvALUE": {
+      "INH": "cssnUMERICvALUE",
+      "IMPL": []
+    },
+    "cssmATRIXcOMPONENT": {
+      "INH": "csstRANSFORMcOMPONENT",
+      "IMPL": []
+    },
+    "cssmEDIArULE": {
+      "INH": "csscONDITIONrULE",
+      "IMPL": []
+    },
+    "cssnAMESPACErULE": {
+      "INH": "cssrULE",
+      "IMPL": []
+    },
+    "cssnESTEDdECLARATIONS": {
+      "INH": "cssrULE",
+      "IMPL": []
+    },
+    "cssnUMERICaRRAY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cssnUMERICvALUE": {
+      "INH": "csssTYLEvALUE",
+      "IMPL": []
+    },
+    "cssoklAB": {
+      "INH": "csscOLORvALUE",
+      "IMPL": []
+    },
+    "cssoklch": {
+      "INH": "csscOLORvALUE",
+      "IMPL": []
+    },
+    "csspAGEdESCRIPTORS": {
+      "INH": "csssTYLEdECLARATION",
+      "IMPL": []
+    },
+    "csspAGErULE": {
+      "INH": "cssgROUPINGrULE",
+      "IMPL": []
+    },
+    "csspARSERaTrULE": {
+      "INH": "csspARSERrULE",
+      "IMPL": []
+    },
+    "csspARSERbLOCK": {
+      "INH": "csspARSERvALUE",
+      "IMPL": []
+    },
+    "csspARSERdECLARATION": {
+      "INH": "csspARSERrULE",
+      "IMPL": []
+    },
+    "csspARSERfUNCTION": {
+      "INH": "csspARSERvALUE",
+      "IMPL": []
+    },
+    "csspARSERqUALIFIEDrULE": {
+      "INH": "csspARSERrULE",
+      "IMPL": []
+    },
+    "csspARSERrULE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "csspARSERvALUE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "csspERSPECTIVE": {
+      "INH": "csstRANSFORMcOMPONENT",
+      "IMPL": []
+    },
+    "csspOSITIONtRYdESCRIPTORS": {
+      "INH": "csssTYLEdECLARATION",
+      "IMPL": []
+    },
+    "csspOSITIONtRYrULE": {
+      "INH": "cssrULE",
+      "IMPL": []
+    },
+    "csspROPERTYrULE": {
+      "INH": "cssrULE",
+      "IMPL": []
+    },
+    "csspSEUDOeLEMENT": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "cssrgb": {
+      "INH": "csscOLORvALUE",
+      "IMPL": []
+    },
+    "cssrOTATE": {
+      "INH": "csstRANSFORMcOMPONENT",
+      "IMPL": []
+    },
+    "cssrULE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cssrULElIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "csssCALE": {
+      "INH": "csstRANSFORMcOMPONENT",
+      "IMPL": []
+    },
+    "csssCOPErULE": {
+      "INH": "cssgROUPINGrULE",
+      "IMPL": []
+    },
+    "csssKEW": {
+      "INH": "csstRANSFORMcOMPONENT",
+      "IMPL": []
+    },
+    "csssKEWx": {
+      "INH": "csstRANSFORMcOMPONENT",
+      "IMPL": []
+    },
+    "csssKEWy": {
+      "INH": "csstRANSFORMcOMPONENT",
+      "IMPL": []
+    },
+    "csssTARTINGsTYLErULE": {
+      "INH": "cssgROUPINGrULE",
+      "IMPL": []
+    },
+    "csssTYLEdECLARATION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "csssTYLEpROPERTIES": {
+      "INH": "csssTYLEdECLARATION",
+      "IMPL": []
+    },
+    "csssTYLErULE": {
+      "INH": "cssgROUPINGrULE",
+      "IMPL": []
+    },
+    "csssTYLEsHEET": {
+      "INH": "sTYLEsHEET",
+      "IMPL": []
+    },
+    "csssTYLEvALUE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "csssUPPORTSrULE": {
+      "INH": "csscONDITIONrULE",
+      "IMPL": []
+    },
+    "csstRANSFORMcOMPONENT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "csstRANSFORMvALUE": {
+      "INH": "csssTYLEvALUE",
+      "IMPL": []
+    },
+    "csstRANSITION": {
+      "INH": "aNIMATION",
+      "IMPL": []
+    },
+    "csstRANSLATE": {
+      "INH": "csstRANSFORMcOMPONENT",
+      "IMPL": []
+    },
+    "cssuNITvALUE": {
+      "INH": "cssnUMERICvALUE",
+      "IMPL": []
+    },
+    "cssuNPARSEDvALUE": {
+      "INH": "csssTYLEvALUE",
+      "IMPL": []
+    },
+    "cssvARIABLErEFERENCEvALUE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cssvIEWtRANSITIONrULE": {
+      "INH": "cssrULE",
+      "IMPL": []
+    },
+    "cUSTOMeLEMENTrEGISTRY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "cUSTOMeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "cUSTOMsTATEsET": {
+      "INH": "",
+      "IMPL": []
+    },
+    "dATAcUE": {
+      "INH": "tEXTtRACKcUE",
+      "IMPL": []
+    },
+    "dATAtRANSFER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "dATAtRANSFERiTEM": {
+      "INH": "",
+      "IMPL": []
+    },
+    "dATAtRANSFERiTEMlIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "dECOMPRESSIONsTREAM": {
+      "INH": "",
+      "IMPL": []
+    },
+    "dEDICATEDwORKERgLOBALsCOPE": {
+      "INH": "wORKERgLOBALsCOPE",
+      "IMPL": []
+    },
+    "dELAYnODE": {
+      "INH": "aUDIOnODE",
+      "IMPL": []
+    },
+    "dELEGATEDiNKtRAILpRESENTER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "dEPRECATIONrEPORTbODY": {
+      "INH": "rEPORTbODY",
+      "IMPL": []
+    },
+    "dEVICEcHANGEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "dEVICEmOTIONeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "dEVICEmOTIONeVENTaCCELERATION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "dEVICEmOTIONeVENTrOTATIONrATE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "dEVICEoRIENTATIONeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "dEVICEpOSTURE": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "dIGITALcREDENTIAL": {
+      "INH": "cREDENTIAL",
+      "IMPL": []
+    },
+    "dIGITALgOODSsERVICE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "dOCUMENT": {
+      "INH": "nODE",
+      "IMPL": []
+    },
+    "dOCUMENTfRAGMENT": {
+      "INH": "nODE",
+      "IMPL": []
+    },
+    "dOCUMENTpICTUREiNpICTURE": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "dOCUMENTpICTUREiNpICTUREeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "dOCUMENTtIMELINE": {
+      "INH": "aNIMATIONtIMELINE",
+      "IMPL": []
+    },
+    "dOCUMENTtYPE": {
+      "INH": "nODE",
+      "IMPL": []
+    },
+    "domeXCEPTION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "domiMPLEMENTATION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "dommATRIX": {
+      "INH": "dommATRIXrEADoNLY",
+      "IMPL": []
+    },
+    "dommATRIXrEADoNLY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "dompARSER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "dompOINT": {
+      "INH": "dompOINTrEADoNLY",
+      "IMPL": []
+    },
+    "dompOINTrEADoNLY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "domqUAD": {
+      "INH": "",
+      "IMPL": []
+    },
+    "domrECT": {
+      "INH": "domrECTrEADoNLY",
+      "IMPL": []
+    },
+    "domrECTlIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "domrECTrEADoNLY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "domsTRINGlIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "domsTRINGmAP": {
+      "INH": "",
+      "IMPL": []
+    },
+    "domtOKENlIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "dRAGeVENT": {
+      "INH": "mOUSEeVENT",
+      "IMPL": []
+    },
+    "dYNAMICScOMPRESSORnODE": {
+      "INH": "aUDIOnODE",
+      "IMPL": []
+    },
+    "eDITcONTEXT": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "eLEMENT": {
+      "INH": "nODE",
+      "IMPL": []
+    },
+    "eLEMENTiNTERNALS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "eNCODEDaUDIOcHUNK": {
+      "INH": "",
+      "IMPL": []
+    },
+    "eNCODEDvIDEOcHUNK": {
+      "INH": "",
+      "IMPL": []
+    },
+    "ePUBrEADINGsYSTEM": {
+      "INH": "",
+      "IMPL": []
+    },
+    "eRROReVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "eVENT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "eVENTcOUNTS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "eVENTsOURCE": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "eVENTtARGET": {
+      "INH": "",
+      "IMPL": []
+    },
+    "ext_BLEND_MINMAX": {
+      "INH": "",
+      "IMPL": []
+    },
+    "ext_COLOR_BUFFER_FLOAT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "ext_COLOR_BUFFER_HALF_FLOAT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "ext_DISJOINT_TIMER_QUERY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "ext_DISJOINT_TIMER_QUERY_WEBGL2": {
+      "INH": "",
+      "IMPL": []
+    },
+    "ext_FLOAT_BLEND": {
+      "INH": "",
+      "IMPL": []
+    },
+    "ext_FRAG_DEPTH": {
+      "INH": "",
+      "IMPL": []
+    },
+    "ext_SHADER_TEXTURE_LOD": {
+      "INH": "",
+      "IMPL": []
+    },
+    "ext_Srgb": {
+      "INH": "",
+      "IMPL": []
+    },
+    "ext_TEXTURE_COMPRESSION_BPTC": {
+      "INH": "",
+      "IMPL": []
+    },
+    "ext_TEXTURE_COMPRESSION_RGTC": {
+      "INH": "",
+      "IMPL": []
+    },
+    "ext_TEXTURE_FILTER_ANISOTROPIC": {
+      "INH": "",
+      "IMPL": []
+    },
+    "ext_TEXTURE_NORM16": {
+      "INH": "",
+      "IMPL": []
+    },
+    "eXTENDABLEcOOKIEcHANGEeVENT": {
+      "INH": "eXTENDABLEeVENT",
+      "IMPL": []
+    },
+    "eXTENDABLEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "eXTENDABLEmESSAGEeVENT": {
+      "INH": "eXTENDABLEeVENT",
+      "IMPL": []
+    },
+    "eXTERNAL": {
+      "INH": "",
+      "IMPL": []
+    },
+    "eYEdROPPER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fACEdETECTOR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fEDERATEDcREDENTIAL": {
+      "INH": "cREDENTIAL",
+      "IMPL": []
+    },
+    "fENCE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fENCEDfRAMEcONFIG": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fETCHeVENT": {
+      "INH": "eXTENDABLEeVENT",
+      "IMPL": []
+    },
+    "fILE": {
+      "INH": "bLOB",
+      "IMPL": []
+    },
+    "fILElIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fILErEADER": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "fILErEADERsYNC": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fILEsYSTEM": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fILEsYSTEMdIRECTORYeNTRY": {
+      "INH": "fILEsYSTEMeNTRY",
+      "IMPL": []
+    },
+    "fILEsYSTEMdIRECTORYhANDLE": {
+      "INH": "fILEsYSTEMhANDLE",
+      "IMPL": []
+    },
+    "fILEsYSTEMdIRECTORYrEADER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fILEsYSTEMeNTRY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fILEsYSTEMfILEeNTRY": {
+      "INH": "fILEsYSTEMeNTRY",
+      "IMPL": []
+    },
+    "fILEsYSTEMfILEhANDLE": {
+      "INH": "fILEsYSTEMhANDLE",
+      "IMPL": []
+    },
+    "fILEsYSTEMhANDLE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fILEsYSTEMsYNCaCCESShANDLE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fILEsYSTEMwRITABLEfILEsTREAM": {
+      "INH": "wRITABLEsTREAM",
+      "IMPL": []
+    },
+    "fOCUSeVENT": {
+      "INH": "uieVENT",
+      "IMPL": []
+    },
+    "fONT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fONTdATA": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fONTfACE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fONTfACEfEATURES": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fONTfACEpALETTE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fONTfACEpALETTES": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fONTfACEsET": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "fONTfACEsETlOADeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "fONTfACEvARIATIONaXIS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fONTfACEvARIATIONS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fONTmETRICS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fORdEBUGGINGoNLY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fORMdATA": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fORMdATAeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "fRAGMENTdIRECTIVE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "fRAGMENTrESULT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gAINnODE": {
+      "INH": "aUDIOnODE",
+      "IMPL": []
+    },
+    "gAMEPAD": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gAMEPADbUTTON": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gAMEPADeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "gAMEPADhAPTICaCTUATOR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gAMEPADpOSE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gAMEPADtOUCH": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gEOLOCATION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gEOLOCATIONcOORDINATES": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gEOLOCATIONpOSITION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gEOLOCATIONpOSITIONeRROR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gEOLOCATIONsENSOR": {
+      "INH": "sENSOR",
+      "IMPL": []
+    },
+    "gLOBAL": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpu": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpuaDAPTER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpuaDAPTERiNFO": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpubINDgROUP": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpubINDgROUPlAYOUT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpubUFFER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpucANVAScONTEXT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpucOMMANDbUFFER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpucOMMANDeNCODER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpucOMPILATIONiNFO": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpucOMPILATIONmESSAGE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpucOMPUTEpASSeNCODER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpucOMPUTEpIPELINE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpudEVICE": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "gpudEVICElOSTiNFO": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpueRROR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpueXTERNALtEXTURE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpuiNTERNALeRROR": {
+      "INH": "gpueRROR",
+      "IMPL": []
+    },
+    "gpuoUToFmEMORYeRROR": {
+      "INH": "gpueRROR",
+      "IMPL": []
+    },
+    "gpupIPELINEeRROR": {
+      "INH": "domeXCEPTION",
+      "IMPL": []
+    },
+    "gpupIPELINElAYOUT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpuqUERYsET": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpuqUEUE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpurENDERbUNDLE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpurENDERbUNDLEeNCODER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpurENDERpASSeNCODER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpurENDERpIPELINE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpusAMPLER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpusHADERmODULE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpusUPPORTEDfEATURES": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpusUPPORTEDlIMITS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gputEXTURE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gputEXTUREvIEW": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gpuuNCAPTUREDeRROReVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "gpuvALIDATIONeRROR": {
+      "INH": "gpueRROR",
+      "IMPL": []
+    },
+    "gRAVITYsENSOR": {
+      "INH": "aCCELEROMETER",
+      "IMPL": []
+    },
+    "gROUPeFFECT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "gYROSCOPE": {
+      "INH": "sENSOR",
+      "IMPL": []
+    },
+    "hANDWRITINGdRAWING": {
+      "INH": "",
+      "IMPL": []
+    },
+    "hANDWRITINGrECOGNIZER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "hANDWRITINGsTROKE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "hASHcHANGEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "hEADERS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "hid": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "hidcONNECTIONeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "hiddEVICE": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "hidiNPUTrEPORTeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "hIGHLIGHT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "hIGHLIGHTrEGISTRY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "hISTORY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "htmlaLLcOLLECTION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "htmlaNCHOReLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlaREAeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlaUDIOeLEMENT": {
+      "INH": "htmlmEDIAeLEMENT",
+      "IMPL": []
+    },
+    "htmlbASEeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlbODYeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlbreLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlbUTTONeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlcANVASeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlcOLLECTION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "htmldATAeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmldATAlISTeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmldETAILSeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmldIALOGeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmldIRECTORYeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmldIVeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmldlISTeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmleLEMENT": {
+      "INH": "eLEMENT",
+      "IMPL": []
+    },
+    "htmleMBEDeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlfENCEDfRAMEeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlfIELDsETeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlfONTeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlfORMcONTROLScOLLECTION": {
+      "INH": "htmlcOLLECTION",
+      "IMPL": []
+    },
+    "htmlfORMeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlfRAMEeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlfRAMEsETeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlhEADeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlhEADINGeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlhreLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlhTMLeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlifRAMEeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmliMAGEeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmliNPUTeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmllABELeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmllEGENDeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmllieLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmllINKeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlmAPeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlmARQUEEeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlmEDIAeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlmENUeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlmETAeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlmETEReLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlmODELeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlmODeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmloBJECTeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlolISTeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmloPTgROUPeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmloPTIONeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmloPTIONScOLLECTION": {
+      "INH": "htmlcOLLECTION",
+      "IMPL": []
+    },
+    "htmloUTPUTeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlpARAGRAPHeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlpARAMeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlpICTUREeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlpORTALeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlpREeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlpROGRESSeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlqUOTEeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlsCRIPTeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlsELECTeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlsLOTeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlsOURCEeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlsPANeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlsTYLEeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmltABLEcAPTIONeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmltABLEcELLeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmltABLEcOLeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmltABLEeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmltABLErOWeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmltABLEsECTIONeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmltEMPLATEeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmltEXTaREAeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmltIMEeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmltITLEeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmltRACKeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlulISTeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmluNKNOWNeLEMENT": {
+      "INH": "htmleLEMENT",
+      "IMPL": []
+    },
+    "htmlvIDEOeLEMENT": {
+      "INH": "htmlmEDIAeLEMENT",
+      "IMPL": []
+    },
+    "idbcURSOR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "idbcURSORwITHvALUE": {
+      "INH": "idbcURSOR",
+      "IMPL": []
+    },
+    "idbdATABASE": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "idbfACTORY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "idbiNDEX": {
+      "INH": "",
+      "IMPL": []
+    },
+    "idbkEYrANGE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "idboBJECTsTORE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "idboPENdbrEQUEST": {
+      "INH": "idbrEQUEST",
+      "IMPL": []
+    },
+    "idbrEQUEST": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "idbtRANSACTION": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "idbvERSIONcHANGEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "iDENTITYcREDENTIAL": {
+      "INH": "cREDENTIAL",
+      "IMPL": []
+    },
+    "iDENTITYpROVIDER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "iDLEdEADLINE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "iDLEdETECTOR": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "iirfILTERnODE": {
+      "INH": "aUDIOnODE",
+      "IMPL": []
+    },
+    "iMAGEbITMAP": {
+      "INH": "",
+      "IMPL": []
+    },
+    "iMAGEbITMAPrENDERINGcONTEXT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "iMAGEcAPTURE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "iMAGEdATA": {
+      "INH": "",
+      "IMPL": []
+    },
+    "iMAGEdECODER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "iMAGEtRACK": {
+      "INH": "",
+      "IMPL": []
+    },
+    "iMAGEtRACKlIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "iNK": {
+      "INH": "",
+      "IMPL": []
+    },
+    "iNPUTdEVICEcAPABILITIES": {
+      "INH": "",
+      "IMPL": []
+    },
+    "iNPUTdEVICEiNFO": {
+      "INH": "mEDIAdEVICEiNFO",
+      "IMPL": []
+    },
+    "iNPUTeVENT": {
+      "INH": "uieVENT",
+      "IMPL": []
+    },
+    "iNSTALLeVENT": {
+      "INH": "eXTENDABLEeVENT",
+      "IMPL": []
+    },
+    "iNSTANCE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "iNTERESTgROUPbIDDINGaNDsCORINGsCRIPTrUNNERgLOBALsCOPE": {
+      "INH": "iNTERESTgROUPsCRIPTrUNNERgLOBALsCOPE",
+      "IMPL": []
+    },
+    "iNTERESTgROUPbIDDINGsCRIPTrUNNERgLOBALsCOPE": {
+      "INH": "iNTERESTgROUPbIDDINGaNDsCORINGsCRIPTrUNNERgLOBALsCOPE",
+      "IMPL": []
+    },
+    "iNTERESTgROUPrEPORTINGsCRIPTrUNNERgLOBALsCOPE": {
+      "INH": "iNTERESTgROUPsCRIPTrUNNERgLOBALsCOPE",
+      "IMPL": []
+    },
+    "iNTERESTgROUPsCORINGsCRIPTrUNNERgLOBALsCOPE": {
+      "INH": "iNTERESTgROUPbIDDINGaNDsCORINGsCRIPTrUNNERgLOBALsCOPE",
+      "IMPL": []
+    },
+    "iNTERESTgROUPsCRIPTrUNNERgLOBALsCOPE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "iNTERSECTIONoBSERVER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "iNTERSECTIONoBSERVEReNTRY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "iNTERVENTIONrEPORTbODY": {
+      "INH": "rEPORTbODY",
+      "IMPL": []
+    },
+    "iNTRINSICsIZES": {
+      "INH": "",
+      "IMPL": []
+    },
+    "jSONlD": {
+      "INH": "",
+      "IMPL": []
+    },
+    "jSONlDpROCESSOR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "kEYBOARD": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "kEYBOARDeVENT": {
+      "INH": "uieVENT",
+      "IMPL": []
+    },
+    "kEYBOARDlAYOUTmAP": {
+      "INH": "",
+      "IMPL": []
+    },
+    "kEYFRAMEeFFECT": {
+      "INH": "aNIMATIONeFFECT",
+      "IMPL": []
+    },
+    "kEYfRAMErEQUESTeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "khr_PARALLEL_SHADER_COMPILE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "lARGESTcONTENTFULpAINT": {
+      "INH": "pERFORMANCEeNTRY",
+      "IMPL": []
+    },
+    "lAUNCHpARAMS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "lAUNCHqUEUE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "lAYOUTcHILD": {
+      "INH": "",
+      "IMPL": []
+    },
+    "lAYOUTcONSTRAINTS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "lAYOUTeDGES": {
+      "INH": "",
+      "IMPL": []
+    },
+    "lAYOUTfRAGMENT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "lAYOUTsHIFT": {
+      "INH": "pERFORMANCEeNTRY",
+      "IMPL": []
+    },
+    "lAYOUTsHIFTaTTRIBUTION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "lAYOUTwORKLETgLOBALsCOPE": {
+      "INH": "wORKLETgLOBALsCOPE",
+      "IMPL": []
+    },
+    "lINEARaCCELERATIONsENSOR": {
+      "INH": "aCCELEROMETER",
+      "IMPL": []
+    },
+    "lOCATION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "lOCK": {
+      "INH": "",
+      "IMPL": []
+    },
+    "lOCKmANAGER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mAGNETOMETER": {
+      "INH": "sENSOR",
+      "IMPL": []
+    },
+    "mANAGEDmEDIAsOURCE": {
+      "INH": "mEDIAsOURCE",
+      "IMPL": []
+    },
+    "mANAGEDsOURCEbUFFER": {
+      "INH": "sOURCEbUFFER",
+      "IMPL": []
+    },
+    "mATHmleLEMENT": {
+      "INH": "eLEMENT",
+      "IMPL": []
+    },
+    "mEDIAcAPABILITIES": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mEDIAdEVICEiNFO": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mEDIAdEVICES": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "mEDIAeLEMENTaUDIOsOURCEnODE": {
+      "INH": "aUDIOnODE",
+      "IMPL": []
+    },
+    "mEDIAeNCRYPTEDeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "mEDIAeRROR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mEDIAkEYmESSAGEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "mEDIAkEYS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mEDIAkEYsESSION": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "mEDIAkEYsTATUSmAP": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mEDIAkEYsYSTEMaCCESS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mEDIAlIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mEDIAmETADATA": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mEDIAqUERYlIST": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "mEDIAqUERYlISTeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "mEDIArECORDER": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "mEDIAsESSION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mEDIAsOURCE": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "mEDIAsOURCEhANDLE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mEDIAsTREAM": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "mEDIAsTREAMaUDIOdESTINATIONnODE": {
+      "INH": "aUDIOnODE",
+      "IMPL": []
+    },
+    "mEDIAsTREAMaUDIOsOURCEnODE": {
+      "INH": "aUDIOnODE",
+      "IMPL": []
+    },
+    "mEDIAsTREAMtRACK": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "mEDIAsTREAMtRACKaUDIOsOURCEnODE": {
+      "INH": "aUDIOnODE",
+      "IMPL": []
+    },
+    "mEDIAsTREAMtRACKeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "mEDIAsTREAMtRACKpROCESSOR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mEMORY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mESSAGEcHANNEL": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mESSAGEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "mESSAGEpORT": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "midiaCCESS": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "midicONNECTIONeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "midiiNPUT": {
+      "INH": "midipORT",
+      "IMPL": []
+    },
+    "midiiNPUTmAP": {
+      "INH": "",
+      "IMPL": []
+    },
+    "midimESSAGEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "midioUTPUT": {
+      "INH": "midipORT",
+      "IMPL": []
+    },
+    "midioUTPUTmAP": {
+      "INH": "",
+      "IMPL": []
+    },
+    "midipORT": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "mIMEtYPE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mIMEtYPEaRRAY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "ml": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mlcONTEXT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mlgRAPH": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mlgRAPHbUILDER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mloPERAND": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mODULE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mOUSEeVENT": {
+      "INH": "uieVENT",
+      "IMPL": []
+    },
+    "mUTATIONoBSERVER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "mUTATIONrECORD": {
+      "INH": "",
+      "IMPL": []
+    },
+    "nAMEDfLOW": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "nAMEDfLOWmAP": {
+      "INH": "",
+      "IMPL": []
+    },
+    "nAMEDnODEmAP": {
+      "INH": "",
+      "IMPL": []
+    },
+    "nAVIGATEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "nAVIGATION": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "nAVIGATIONaCTIVATION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "nAVIGATIONcURRENTeNTRYcHANGEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "nAVIGATIONdESTINATION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "nAVIGATIONeVENT": {
+      "INH": "uieVENT",
+      "IMPL": []
+    },
+    "nAVIGATIONhISTORYeNTRY": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "nAVIGATIONpRELOADmANAGER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "nAVIGATIONtRANSITION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "nAVIGATOR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "nAVIGATORmANAGEDdATA": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "nAVIGATORuadATA": {
+      "INH": "",
+      "IMPL": []
+    },
+    "ndefmESSAGE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "ndefrEADER": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "ndefrEADINGeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "ndefrECORD": {
+      "INH": "",
+      "IMPL": []
+    },
+    "nETWORKiNFORMATION": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "nODE": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "nODEiTERATOR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "nODElIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "nOTIFICATION": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "nOTIFICATIONeVENT": {
+      "INH": "eXTENDABLEeVENT",
+      "IMPL": []
+    },
+    "nOTrESTOREDrEASONdETAILS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "nOTrESTOREDrEASONS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "oBSERVABLE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "oes_DRAW_BUFFERS_INDEXED": {
+      "INH": "",
+      "IMPL": []
+    },
+    "oes_ELEMENT_INDEX_UINT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "oes_FBO_RENDER_MIPMAP": {
+      "INH": "",
+      "IMPL": []
+    },
+    "oes_STANDARD_DERIVATIVES": {
+      "INH": "",
+      "IMPL": []
+    },
+    "oes_TEXTURE_FLOAT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "oes_TEXTURE_FLOAT_LINEAR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "oes_TEXTURE_HALF_FLOAT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "oes_TEXTURE_HALF_FLOAT_LINEAR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "oes_VERTEX_ARRAY_OBJECT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "oFFLINEaUDIOcOMPLETIONeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "oFFLINEaUDIOcONTEXT": {
+      "INH": "bASEaUDIOcONTEXT",
+      "IMPL": []
+    },
+    "oFFSCREENcANVAS": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "oFFSCREENcANVASrENDERINGcONTEXT2d": {
+      "INH": "",
+      "IMPL": []
+    },
+    "oRIENTATIONsENSOR": {
+      "INH": "sENSOR",
+      "IMPL": []
+    },
+    "oSCILLATORnODE": {
+      "INH": "aUDIOsCHEDULEDsOURCEnODE",
+      "IMPL": []
+    },
+    "otpcREDENTIAL": {
+      "INH": "cREDENTIAL",
+      "IMPL": []
+    },
+    "oVERCONSTRAINEDeRROR": {
+      "INH": "domeXCEPTION",
+      "IMPL": []
+    },
+    "ovr_MULTIVIEW2": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pAGErEVEALeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "pAGEsWAPeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "pAGEtRANSITIONeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "pAINTrENDERINGcONTEXT2d": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pAINTsIZE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pAINTwORKLETgLOBALsCOPE": {
+      "INH": "wORKLETgLOBALsCOPE",
+      "IMPL": []
+    },
+    "pANNERnODE": {
+      "INH": "aUDIOnODE",
+      "IMPL": []
+    },
+    "pASSWORDcREDENTIAL": {
+      "INH": "cREDENTIAL",
+      "IMPL": []
+    },
+    "pATH2d": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pAYMENTmANAGER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pAYMENTmETHODcHANGEeVENT": {
+      "INH": "pAYMENTrEQUESTuPDATEeVENT",
+      "IMPL": []
+    },
+    "pAYMENTrEQUEST": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "pAYMENTrEQUESTeVENT": {
+      "INH": "eXTENDABLEeVENT",
+      "IMPL": []
+    },
+    "pAYMENTrEQUESTuPDATEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "pAYMENTrESPONSE": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "pERFORMANCE": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "pERFORMANCEeLEMENTtIMING": {
+      "INH": "pERFORMANCEeNTRY",
+      "IMPL": []
+    },
+    "pERFORMANCEeNTRY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pERFORMANCEeVENTtIMING": {
+      "INH": "pERFORMANCEeNTRY",
+      "IMPL": []
+    },
+    "pERFORMANCElONGaNIMATIONfRAMEtIMING": {
+      "INH": "pERFORMANCEeNTRY",
+      "IMPL": []
+    },
+    "pERFORMANCElONGtASKtIMING": {
+      "INH": "pERFORMANCEeNTRY",
+      "IMPL": []
+    },
+    "pERFORMANCEmARK": {
+      "INH": "pERFORMANCEeNTRY",
+      "IMPL": []
+    },
+    "pERFORMANCEmEASURE": {
+      "INH": "pERFORMANCEeNTRY",
+      "IMPL": []
+    },
+    "pERFORMANCEnAVIGATION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pERFORMANCEnAVIGATIONtIMING": {
+      "INH": "pERFORMANCErESOURCEtIMING",
+      "IMPL": []
+    },
+    "pERFORMANCEoBSERVER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pERFORMANCEoBSERVEReNTRYlIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pERFORMANCEpAINTtIMING": {
+      "INH": "pERFORMANCEeNTRY",
+      "IMPL": []
+    },
+    "pERFORMANCErESOURCEtIMING": {
+      "INH": "pERFORMANCEeNTRY",
+      "IMPL": []
+    },
+    "pERFORMANCEsCRIPTtIMING": {
+      "INH": "pERFORMANCEeNTRY",
+      "IMPL": []
+    },
+    "pERFORMANCEsERVERtIMING": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pERFORMANCEtIMING": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pERIODICsYNCeVENT": {
+      "INH": "eXTENDABLEeVENT",
+      "IMPL": []
+    },
+    "pERIODICsYNCmANAGER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pERIODICwAVE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pERMISSIONS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pERMISSIONSpOLICY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pERMISSIONSpOLICYvIOLATIONrEPORTbODY": {
+      "INH": "rEPORTbODY",
+      "IMPL": []
+    },
+    "pERMISSIONsTATUS": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "pICTUREiNpICTUREeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "pICTUREiNpICTUREwINDOW": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "pLUGIN": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pLUGINaRRAY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pOINTEReVENT": {
+      "INH": "mOUSEeVENT",
+      "IMPL": []
+    },
+    "pOPsTATEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "pORTALaCTIVATEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "pORTALhOST": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "pREFERENCEmANAGER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pREFERENCEoBJECT": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "pRESENTATION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pRESENTATIONaVAILABILITY": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "pRESENTATIONcONNECTION": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "pRESENTATIONcONNECTIONaVAILABLEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "pRESENTATIONcONNECTIONcLOSEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "pRESENTATIONcONNECTIONlIST": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "pRESENTATIONrECEIVER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pRESENTATIONrEQUEST": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "pRESSUREoBSERVER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pRESSURErECORD": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pRIVATEaGGREGATION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pROCESSINGiNSTRUCTION": {
+      "INH": "cHARACTERdATA",
+      "IMPL": []
+    },
+    "pROFILER": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "pROGRESSeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "pROMISErEJECTIONeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "pROTECTEDaUDIENCE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pROXIMITYsENSOR": {
+      "INH": "sENSOR",
+      "IMPL": []
+    },
+    "pUBLICkEYcREDENTIAL": {
+      "INH": "cREDENTIAL",
+      "IMPL": []
+    },
+    "pUSHeVENT": {
+      "INH": "eXTENDABLEeVENT",
+      "IMPL": []
+    },
+    "pUSHmANAGER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pUSHmESSAGEdATA": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pUSHsUBSCRIPTION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "pUSHsUBSCRIPTIONcHANGEeVENT": {
+      "INH": "eXTENDABLEeVENT",
+      "IMPL": []
+    },
+    "pUSHsUBSCRIPTIONoPTIONS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rADIOnODElIST": {
+      "INH": "nODElIST",
+      "IMPL": []
+    },
+    "rANGE": {
+      "INH": "aBSTRACTrANGE",
+      "IMPL": []
+    },
+    "rDFdATASET": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rDFgRAPH": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rDFlITERAL": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rDFtRIPLE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rEADABLEbYTEsTREAMcONTROLLER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rEADABLEsTREAM": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rEADABLEsTREAMbyobrEADER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rEADABLEsTREAMbyobrEQUEST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rEADABLEsTREAMdEFAULTcONTROLLER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rEADABLEsTREAMdEFAULTrEADER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rEALtIMErEPORTING": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rELATIVEoRIENTATIONsENSOR": {
+      "INH": "oRIENTATIONsENSOR",
+      "IMPL": []
+    },
+    "rEMOTEdOCUMENT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rEMOTEpLAYBACK": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "rEPORT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rEPORTbODY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rEPORTINGoBSERVER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rEQUEST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rESIZEoBSERVER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rESIZEoBSERVEReNTRY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rESIZEoBSERVERsIZE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rESPONSE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rESTRICTIONtARGET": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rtccERTIFICATE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rtcdATAcHANNEL": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "rtcdATAcHANNELeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "rtcdTLStRANSPORT": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "rtcdtmfsENDER": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "rtcdtmftONEcHANGEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "rtceNCODEDaUDIOfRAME": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rtceNCODEDvIDEOfRAME": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rtceRROR": {
+      "INH": "domeXCEPTION",
+      "IMPL": []
+    },
+    "rtceRROReVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "rtciCEcANDIDATE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rtciCEcANDIDATEpAIR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rtciCEtRANSPORT": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "rtciDENTITYaSSERTION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rtciDENTITYpROVIDERgLOBALsCOPE": {
+      "INH": "wORKERgLOBALsCOPE",
+      "IMPL": []
+    },
+    "rtciDENTITYpROVIDERrEGISTRAR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rtcpEERcONNECTION": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "rtcpEERcONNECTIONiCEeRROReVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "rtcpEERcONNECTIONiCEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "rtcrTPrECEIVER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rtcrTPsCRIPTtRANSFORM": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rtcrTPsCRIPTtRANSFORMER": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "rtcrTPsENDER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rtcrTPtRANSCEIVER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rtcsCTPtRANSPORT": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "rtcsESSIONdESCRIPTION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rtcsTATSrEPORT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "rtctRACKeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "rtctRANSFORMeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "sANITIZER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "sCHEDULER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "sCHEDULING": {
+      "INH": "",
+      "IMPL": []
+    },
+    "sCREEN": {
+      "INH": "",
+      "IMPL": []
+    },
+    "sCREENdETAILED": {
+      "INH": "sCREEN",
+      "IMPL": []
+    },
+    "sCREENdETAILS": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "sCREENoRIENTATION": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "sCRIPTINGpOLICYrEPORTbODY": {
+      "INH": "rEPORTbODY",
+      "IMPL": []
+    },
+    "sCRIPTpROCESSORnODE": {
+      "INH": "aUDIOnODE",
+      "IMPL": []
+    },
+    "sCROLLtIMELINE": {
+      "INH": "aNIMATIONtIMELINE",
+      "IMPL": []
+    },
+    "sECURITYpOLICYvIOLATIONeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "sELECTION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "sENSOR": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "sENSOReRROReVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "sEQUENCEeFFECT": {
+      "INH": "gROUPeFFECT",
+      "IMPL": []
+    },
+    "sERIAL": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "sERIALpORT": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "sERVICEwORKER": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "sERVICEwORKERcONTAINER": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "sERVICEwORKERgLOBALsCOPE": {
+      "INH": "wORKERgLOBALsCOPE",
+      "IMPL": []
+    },
+    "sERVICEwORKERrEGISTRATION": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "sfRAMEtRANSFORM": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "sfRAMEtRANSFORMeRROReVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "sHADOWaNIMATION": {
+      "INH": "aNIMATION",
+      "IMPL": []
+    },
+    "sHADOWrOOT": {
+      "INH": "dOCUMENTfRAGMENT",
+      "IMPL": []
+    },
+    "sHAREDsTORAGE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "sHAREDsTORAGEwORKLET": {
+      "INH": "wORKLET",
+      "IMPL": []
+    },
+    "sHAREDsTORAGEwORKLETgLOBALsCOPE": {
+      "INH": "wORKLETgLOBALsCOPE",
+      "IMPL": []
+    },
+    "sHAREDwORKER": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "sHAREDwORKERgLOBALsCOPE": {
+      "INH": "wORKERgLOBALsCOPE",
+      "IMPL": []
+    },
+    "sNAPeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "sOURCEbUFFER": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "sOURCEbUFFERlIST": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "sPEECHgRAMMAR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "sPEECHgRAMMARlIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "sPEECHrECOGNITION": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "sPEECHrECOGNITIONaLTERNATIVE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "sPEECHrECOGNITIONeRROReVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "sPEECHrECOGNITIONeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "sPEECHrECOGNITIONrESULT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "sPEECHrECOGNITIONrESULTlIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "sPEECHsYNTHESIS": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "sPEECHsYNTHESISeRROReVENT": {
+      "INH": "sPEECHsYNTHESISeVENT",
+      "IMPL": []
+    },
+    "sPEECHsYNTHESISeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "sPEECHsYNTHESISuTTERANCE": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "sPEECHsYNTHESISvOICE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "sTATICrANGE": {
+      "INH": "aBSTRACTrANGE",
+      "IMPL": []
+    },
+    "sTEREOpANNERnODE": {
+      "INH": "aUDIOnODE",
+      "IMPL": []
+    },
+    "sTORAGE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "sTORAGEaCCESShANDLE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "sTORAGEbUCKET": {
+      "INH": "",
+      "IMPL": []
+    },
+    "sTORAGEbUCKETmANAGER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "sTORAGEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "sTORAGEmANAGER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "sTYLEpROPERTYmAP": {
+      "INH": "sTYLEpROPERTYmAPrEADoNLY",
+      "IMPL": []
+    },
+    "sTYLEpROPERTYmAPrEADoNLY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "sTYLEsHEET": {
+      "INH": "",
+      "IMPL": []
+    },
+    "sTYLEsHEETlIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "sUBMITeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "sUBSCRIBER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "sUBTLEcRYPTO": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svgaeLEMENT": {
+      "INH": "svggRAPHICSeLEMENT",
+      "IMPL": []
+    },
+    "svgaNGLE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svgaNIMATEDaNGLE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svgaNIMATEDbOOLEAN": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svgaNIMATEDeNUMERATION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svgaNIMATEDiNTEGER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svgaNIMATEDlENGTH": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svgaNIMATEDlENGTHlIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svgaNIMATEDnUMBER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svgaNIMATEDnUMBERlIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svgaNIMATEDpRESERVEaSPECTrATIO": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svgaNIMATEDrECT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svgaNIMATEDsTRING": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svgaNIMATEDtRANSFORMlIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svgaNIMATEeLEMENT": {
+      "INH": "svgaNIMATIONeLEMENT",
+      "IMPL": []
+    },
+    "svgaNIMATEmOTIONeLEMENT": {
+      "INH": "svgaNIMATIONeLEMENT",
+      "IMPL": []
+    },
+    "svgaNIMATEtRANSFORMeLEMENT": {
+      "INH": "svgaNIMATIONeLEMENT",
+      "IMPL": []
+    },
+    "svgaNIMATIONeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgcIRCLEeLEMENT": {
+      "INH": "svggEOMETRYeLEMENT",
+      "IMPL": []
+    },
+    "svgcLIPpATHeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgcOMPONENTtRANSFERfUNCTIONeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgdEFSeLEMENT": {
+      "INH": "svggRAPHICSeLEMENT",
+      "IMPL": []
+    },
+    "svgdESCeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgdISCARDeLEMENT": {
+      "INH": "svgaNIMATIONeLEMENT",
+      "IMPL": []
+    },
+    "svgeLEMENT": {
+      "INH": "eLEMENT",
+      "IMPL": []
+    },
+    "svgeLLIPSEeLEMENT": {
+      "INH": "svggEOMETRYeLEMENT",
+      "IMPL": []
+    },
+    "svgfebLENDeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfecOLORmATRIXeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfecOMPONENTtRANSFEReLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfecOMPOSITEeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfecONVOLVEmATRIXeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfedIFFUSElIGHTINGeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfedISPLACEMENTmAPeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfedISTANTlIGHTeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfedROPsHADOWeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfefLOODeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfefUNCaeLEMENT": {
+      "INH": "svgcOMPONENTtRANSFERfUNCTIONeLEMENT",
+      "IMPL": []
+    },
+    "svgfefUNCbeLEMENT": {
+      "INH": "svgcOMPONENTtRANSFERfUNCTIONeLEMENT",
+      "IMPL": []
+    },
+    "svgfefUNCgeLEMENT": {
+      "INH": "svgcOMPONENTtRANSFERfUNCTIONeLEMENT",
+      "IMPL": []
+    },
+    "svgfefUNCreLEMENT": {
+      "INH": "svgcOMPONENTtRANSFERfUNCTIONeLEMENT",
+      "IMPL": []
+    },
+    "svgfegAUSSIANbLUReLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfeiMAGEeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfemERGEeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfemERGEnODEeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfemORPHOLOGYeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfeoFFSETeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfepOINTlIGHTeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfesPECULARlIGHTINGeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfesPOTlIGHTeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfetILEeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfetURBULENCEeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfILTEReLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgfOREIGNoBJECTeLEMENT": {
+      "INH": "svggRAPHICSeLEMENT",
+      "IMPL": []
+    },
+    "svggeLEMENT": {
+      "INH": "svggRAPHICSeLEMENT",
+      "IMPL": []
+    },
+    "svggEOMETRYeLEMENT": {
+      "INH": "svggRAPHICSeLEMENT",
+      "IMPL": []
+    },
+    "svggRADIENTeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svggRAPHICSeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgiMAGEeLEMENT": {
+      "INH": "svggRAPHICSeLEMENT",
+      "IMPL": []
+    },
+    "svglENGTH": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svglENGTHlIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svglINEARgRADIENTeLEMENT": {
+      "INH": "svggRADIENTeLEMENT",
+      "IMPL": []
+    },
+    "svglINEeLEMENT": {
+      "INH": "svggEOMETRYeLEMENT",
+      "IMPL": []
+    },
+    "svgmARKEReLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgmASKeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgmETADATAeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgmpATHeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgnUMBER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svgnUMBERlIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svgpATHeLEMENT": {
+      "INH": "svggEOMETRYeLEMENT",
+      "IMPL": []
+    },
+    "svgpATTERNeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgpOINTlIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svgpOLYGONeLEMENT": {
+      "INH": "svggEOMETRYeLEMENT",
+      "IMPL": []
+    },
+    "svgpOLYLINEeLEMENT": {
+      "INH": "svggEOMETRYeLEMENT",
+      "IMPL": []
+    },
+    "svgpRESERVEaSPECTrATIO": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svgrADIALgRADIENTeLEMENT": {
+      "INH": "svggRADIENTeLEMENT",
+      "IMPL": []
+    },
+    "svgrECTeLEMENT": {
+      "INH": "svggEOMETRYeLEMENT",
+      "IMPL": []
+    },
+    "svgsCRIPTeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgsETeLEMENT": {
+      "INH": "svgaNIMATIONeLEMENT",
+      "IMPL": []
+    },
+    "svgsTOPeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgsTRINGlIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svgsTYLEeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgsvgeLEMENT": {
+      "INH": "svggRAPHICSeLEMENT",
+      "IMPL": []
+    },
+    "svgsWITCHeLEMENT": {
+      "INH": "svggRAPHICSeLEMENT",
+      "IMPL": []
+    },
+    "svgsYMBOLeLEMENT": {
+      "INH": "svggRAPHICSeLEMENT",
+      "IMPL": []
+    },
+    "svgtEXTcONTENTeLEMENT": {
+      "INH": "svggRAPHICSeLEMENT",
+      "IMPL": []
+    },
+    "svgtEXTeLEMENT": {
+      "INH": "svgtEXTpOSITIONINGeLEMENT",
+      "IMPL": []
+    },
+    "svgtEXTpATHeLEMENT": {
+      "INH": "svgtEXTcONTENTeLEMENT",
+      "IMPL": []
+    },
+    "svgtEXTpOSITIONINGeLEMENT": {
+      "INH": "svgtEXTcONTENTeLEMENT",
+      "IMPL": []
+    },
+    "svgtITLEeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "svgtRANSFORM": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svgtRANSFORMlIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svgtsPANeLEMENT": {
+      "INH": "svgtEXTpOSITIONINGeLEMENT",
+      "IMPL": []
+    },
+    "svguNITtYPES": {
+      "INH": "",
+      "IMPL": []
+    },
+    "svguSEeLEMENT": {
+      "INH": "svggRAPHICSeLEMENT",
+      "IMPL": []
+    },
+    "svguSEeLEMENTsHADOWrOOT": {
+      "INH": "sHADOWrOOT",
+      "IMPL": []
+    },
+    "svgvIEWeLEMENT": {
+      "INH": "svgeLEMENT",
+      "IMPL": []
+    },
+    "sYNCeVENT": {
+      "INH": "eXTENDABLEeVENT",
+      "IMPL": []
+    },
+    "sYNCmANAGER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "tABLE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "tASKaTTRIBUTIONtIMING": {
+      "INH": "pERFORMANCEeNTRY",
+      "IMPL": []
+    },
+    "tASKcONTROLLER": {
+      "INH": "aBORTcONTROLLER",
+      "IMPL": []
+    },
+    "tASKpRIORITYcHANGEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "tASKsIGNAL": {
+      "INH": "aBORTsIGNAL",
+      "IMPL": []
+    },
+    "tEXT": {
+      "INH": "cHARACTERdATA",
+      "IMPL": []
+    },
+    "tEXTdECODER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "tEXTdECODERsTREAM": {
+      "INH": "",
+      "IMPL": []
+    },
+    "tEXTdETECTOR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "tEXTeNCODER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "tEXTeNCODERsTREAM": {
+      "INH": "",
+      "IMPL": []
+    },
+    "tEXTeVENT": {
+      "INH": "uieVENT",
+      "IMPL": []
+    },
+    "tEXTfORMAT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "tEXTfORMATuPDATEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "tEXTmETRICS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "tEXTtRACK": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "tEXTtRACKcUE": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "tEXTtRACKcUElIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "tEXTtRACKlIST": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "tEXTuPDATEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "tIMEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "tIMErANGES": {
+      "INH": "",
+      "IMPL": []
+    },
+    "tOGGLEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "tOUCH": {
+      "INH": "",
+      "IMPL": []
+    },
+    "tOUCHeVENT": {
+      "INH": "uieVENT",
+      "IMPL": []
+    },
+    "tOUCHlIST": {
+      "INH": "",
+      "IMPL": []
+    },
+    "tRACKeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "tRANSFORMsTREAM": {
+      "INH": "",
+      "IMPL": []
+    },
+    "tRANSFORMsTREAMdEFAULTcONTROLLER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "tRANSITIONeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "tREEwALKER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "tRUSTEDhtml": {
+      "INH": "",
+      "IMPL": []
+    },
+    "tRUSTEDsCRIPT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "tRUSTEDsCRIPTurl": {
+      "INH": "",
+      "IMPL": []
+    },
+    "tRUSTEDtYPEpOLICY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "tRUSTEDtYPEpOLICYfACTORY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "uieVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "uNCALIBRATEDmAGNETOMETER": {
+      "INH": "sENSOR",
+      "IMPL": []
+    },
+    "url": {
+      "INH": "",
+      "IMPL": []
+    },
+    "urlpATTERN": {
+      "INH": "",
+      "IMPL": []
+    },
+    "urlsEARCHpARAMS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "usb": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "usbaLTERNATEiNTERFACE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "usbcONFIGURATION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "usbcONNECTIONeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "usbdEVICE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "usbeNDPOINT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "usbiNTERFACE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "usbiNtRANSFERrESULT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "usbiSOCHRONOUSiNtRANSFERpACKET": {
+      "INH": "",
+      "IMPL": []
+    },
+    "usbiSOCHRONOUSiNtRANSFERrESULT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "usbiSOCHRONOUSoUTtRANSFERpACKET": {
+      "INH": "",
+      "IMPL": []
+    },
+    "usbiSOCHRONOUSoUTtRANSFERrESULT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "usboUTtRANSFERrESULT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "usbpERMISSIONrESULT": {
+      "INH": "pERMISSIONsTATUS",
+      "IMPL": []
+    },
+    "uSERaCTIVATION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "vALIDITYsTATE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "vALUEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "vIDEOcOLORsPACE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "vIDEOdECODER": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "vIDEOeNCODER": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "vIDEOfRAME": {
+      "INH": "",
+      "IMPL": []
+    },
+    "vIDEOpLAYBACKqUALITY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "vIDEOtRACK": {
+      "INH": "",
+      "IMPL": []
+    },
+    "vIDEOtRACKgENERATOR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "vIDEOtRACKlIST": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "vIEWPORT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "vIEWtIMELINE": {
+      "INH": "sCROLLtIMELINE",
+      "IMPL": []
+    },
+    "vIEWtRANSITION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "vIEWtRANSITIONtYPEsET": {
+      "INH": "",
+      "IMPL": []
+    },
+    "vIRTUALkEYBOARD": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "vISIBILITYsTATEeNTRY": {
+      "INH": "pERFORMANCEeNTRY",
+      "IMPL": []
+    },
+    "vISUALvIEWPORT": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "vttcUE": {
+      "INH": "tEXTtRACKcUE",
+      "IMPL": []
+    },
+    "vttrEGION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wAKElOCK": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wAKElOCKsENTINEL": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "wAVEsHAPERnODE": {
+      "INH": "aUDIOnODE",
+      "IMPL": []
+    },
+    "webgl_BLEND_EQUATION_ADVANCED_COHERENT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "webgl_CLIP_CULL_DISTANCE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "webgl_COLOR_BUFFER_FLOAT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "webgl_COMPRESSED_TEXTURE_ASTC": {
+      "INH": "",
+      "IMPL": []
+    },
+    "webgl_COMPRESSED_TEXTURE_ETC": {
+      "INH": "",
+      "IMPL": []
+    },
+    "webgl_COMPRESSED_TEXTURE_ETC1": {
+      "INH": "",
+      "IMPL": []
+    },
+    "webgl_COMPRESSED_TEXTURE_PVRTC": {
+      "INH": "",
+      "IMPL": []
+    },
+    "webgl_COMPRESSED_TEXTURE_S3TC": {
+      "INH": "",
+      "IMPL": []
+    },
+    "webgl_COMPRESSED_TEXTURE_S3TC_SRGB": {
+      "INH": "",
+      "IMPL": []
+    },
+    "webgl_DEBUG_RENDERER_INFO": {
+      "INH": "",
+      "IMPL": []
+    },
+    "webgl_DEBUG_SHADERS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "webgl_DEPTH_TEXTURE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "webgl_DRAW_BUFFERS": {
+      "INH": "",
+      "IMPL": []
+    },
+    "webgl_DRAW_INSTANCED_BASE_VERTEX_BASE_INSTANCE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "webgl_LOSE_CONTEXT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "webgl_MULTI_DRAW": {
+      "INH": "",
+      "IMPL": []
+    },
+    "webgl_MULTI_DRAW_INSTANCED_BASE_VERTEX_BASE_INSTANCE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "webgl_PROVOKING_VERTEX": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wEBgl2rENDERINGcONTEXT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wEBglaCTIVEiNFO": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wEBglbUFFER": {
+      "INH": "wEBgloBJECT",
+      "IMPL": []
+    },
+    "wEBglcONTEXTeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "wEBglfRAMEBUFFER": {
+      "INH": "wEBgloBJECT",
+      "IMPL": []
+    },
+    "wEBgloBJECT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wEBglpROGRAM": {
+      "INH": "wEBgloBJECT",
+      "IMPL": []
+    },
+    "wEBglqUERY": {
+      "INH": "wEBgloBJECT",
+      "IMPL": []
+    },
+    "wEBglrENDERBUFFER": {
+      "INH": "wEBgloBJECT",
+      "IMPL": []
+    },
+    "wEBglrENDERINGcONTEXT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wEBglsAMPLER": {
+      "INH": "wEBgloBJECT",
+      "IMPL": []
+    },
+    "wEBglsHADER": {
+      "INH": "wEBgloBJECT",
+      "IMPL": []
+    },
+    "wEBglsHADERpRECISIONfORMAT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wEBglsYNC": {
+      "INH": "wEBgloBJECT",
+      "IMPL": []
+    },
+    "wEBgltEXTURE": {
+      "INH": "wEBgloBJECT",
+      "IMPL": []
+    },
+    "wEBgltIMERqUERYext": {
+      "INH": "wEBgloBJECT",
+      "IMPL": []
+    },
+    "wEBgltRANSFORMfEEDBACK": {
+      "INH": "wEBgloBJECT",
+      "IMPL": []
+    },
+    "wEBgluNIFORMlOCATION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wEBglvERTEXaRRAYoBJECT": {
+      "INH": "wEBgloBJECT",
+      "IMPL": []
+    },
+    "wEBglvERTEXaRRAYoBJECToes": {
+      "INH": "wEBgloBJECT",
+      "IMPL": []
+    },
+    "wEBsOCKET": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "wEBtRANSPORT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wEBtRANSPORTbIDIRECTIONALsTREAM": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wEBtRANSPORTdATAGRAMdUPLEXsTREAM": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wEBtRANSPORTeRROR": {
+      "INH": "domeXCEPTION",
+      "IMPL": []
+    },
+    "wEBtRANSPORTrECEIVEsTREAM": {
+      "INH": "rEADABLEsTREAM",
+      "IMPL": []
+    },
+    "wEBtRANSPORTsENDgROUP": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wEBtRANSPORTsENDsTREAM": {
+      "INH": "wRITABLEsTREAM",
+      "IMPL": []
+    },
+    "wEBtRANSPORTwRITER": {
+      "INH": "wRITABLEsTREAMdEFAULTwRITER",
+      "IMPL": []
+    },
+    "wgsllANGUAGEfEATURES": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wHEELeVENT": {
+      "INH": "mOUSEeVENT",
+      "IMPL": []
+    },
+    "wINDOW": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "wINDOWcLIENT": {
+      "INH": "cLIENT",
+      "IMPL": []
+    },
+    "wINDOWcONTROLSoVERLAY": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "wINDOWcONTROLSoVERLAYgEOMETRYcHANGEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "wORKER": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "wORKERgLOBALsCOPE": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "wORKERlOCATION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wORKERnAVIGATOR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wORKLET": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wORKLETaNIMATION": {
+      "INH": "aNIMATION",
+      "IMPL": []
+    },
+    "wORKLETaNIMATIONeFFECT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wORKLETgLOBALsCOPE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wORKLETgROUPeFFECT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wRITABLEsTREAM": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wRITABLEsTREAMdEFAULTcONTROLLER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "wRITABLEsTREAMdEFAULTwRITER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xmldOCUMENT": {
+      "INH": "dOCUMENT",
+      "IMPL": []
+    },
+    "xmlhTTPrEQUEST": {
+      "INH": "xmlhTTPrEQUESTeVENTtARGET",
+      "IMPL": []
+    },
+    "xmlhTTPrEQUESTeVENTtARGET": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "xmlhTTPrEQUESTuPLOAD": {
+      "INH": "xmlhTTPrEQUESTeVENTtARGET",
+      "IMPL": []
+    },
+    "xmlsERIALIZER": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xpATHeVALUATOR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xpATHeXPRESSION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xpATHrESULT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xraNCHOR": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xraNCHORsET": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xrbOUNDEDrEFERENCEsPACE": {
+      "INH": "xrrEFERENCEsPACE",
+      "IMPL": []
+    },
+    "xrcAMERA": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xrcOMPOSITIONlAYER": {
+      "INH": "xrlAYER",
+      "IMPL": []
+    },
+    "xrcpudEPTHiNFORMATION": {
+      "INH": "xrdEPTHiNFORMATION",
+      "IMPL": []
+    },
+    "xrcUBElAYER": {
+      "INH": "xrcOMPOSITIONlAYER",
+      "IMPL": []
+    },
+    "xrcYLINDERlAYER": {
+      "INH": "xrcOMPOSITIONlAYER",
+      "IMPL": []
+    },
+    "xrdEPTHiNFORMATION": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xreQUIRECTlAYER": {
+      "INH": "xrcOMPOSITIONlAYER",
+      "IMPL": []
+    },
+    "xrfRAME": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xrhAND": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xrhITtESTrESULT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xrhITtESTsOURCE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xriNPUTsOURCE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xriNPUTsOURCEaRRAY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xriNPUTsOURCEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "xriNPUTsOURCEScHANGEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "xrjOINTpOSE": {
+      "INH": "xrpOSE",
+      "IMPL": []
+    },
+    "xrjOINTsPACE": {
+      "INH": "xrsPACE",
+      "IMPL": []
+    },
+    "xrlAYER": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "xrlAYEReVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "xrlIGHTeSTIMATE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xrlIGHTpROBE": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "xrmEDIAbINDING": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xrmESH": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xrmESHsET": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xrpERMISSIONsTATUS": {
+      "INH": "pERMISSIONsTATUS",
+      "IMPL": []
+    },
+    "xrpLANE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xrpLANEsET": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xrpOSE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xrpROJECTIONlAYER": {
+      "INH": "xrcOMPOSITIONlAYER",
+      "IMPL": []
+    },
+    "xrqUADlAYER": {
+      "INH": "xrcOMPOSITIONlAYER",
+      "IMPL": []
+    },
+    "xrrAY": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xrrEFERENCEsPACE": {
+      "INH": "xrsPACE",
+      "IMPL": []
+    },
+    "xrrEFERENCEsPACEeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "xrrENDERsTATE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xrrIGIDtRANSFORM": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xrsESSION": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "xrsESSIONeVENT": {
+      "INH": "eVENT",
+      "IMPL": []
+    },
+    "xrsPACE": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "xrsUBiMAGE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xrsYSTEM": {
+      "INH": "eVENTtARGET",
+      "IMPL": []
+    },
+    "xrtRANSIENTiNPUThITtESTrESULT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xrtRANSIENTiNPUThITtESTsOURCE": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xrvIEW": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xrvIEWERpOSE": {
+      "INH": "xrpOSE",
+      "IMPL": []
+    },
+    "xrvIEWPORT": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xrwEBglbINDING": {
+      "INH": "",
+      "IMPL": []
+    },
+    "xrwEBgldEPTHiNFORMATION": {
+      "INH": "xrdEPTHiNFORMATION",
+      "IMPL": []
+    },
+    "xrwEBgllAYER": {
+      "INH": "xrlAYER",
+      "IMPL": []
+    },
+    "xrwEBglsUBiMAGE": {
+      "INH": "xrsUBiMAGE",
+      "IMPL": []
+    },
+    "xsltpROCESSOR": {
+      "INH": "",
+      "IMPL": []
+    }
+  }
+]
